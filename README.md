@@ -1,2 +1,7 @@
-# Adorable-Avatars-Sketch-Plugin
-Insert a random Adorable Avatar into your Sketch project
+# Adorable Avatars Sketch Plugin
+Insert playful placeholder avatars for your Sketch project.
+
+## Usage
+- Select a shape layer or symbol with an image override
+- Run `Adorable Avatars > Insert Avatar`
+- Watch as your layer is filled with a random avatar
