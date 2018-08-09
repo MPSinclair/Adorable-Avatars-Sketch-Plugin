@@ -1,0 +1,25 @@
+{
+  "author" : "Michael Sinclair",
+  "commands" : [
+    {
+      "script" : "script.js",
+      "name" : "Insert Avatar",
+      "handlers" : {
+        "run" : "insertAvatar"
+      },
+      "identifier" : "insert-avatar"
+    }
+  ],
+  "menu" : {
+    "title" : "Adorable Avatars",
+    "items" : [
+      "insert-avatar"
+    ]
+  },
+  "identifier" : "com.michaelsinclair.sketch.adorable-avatars",
+  "version" : "1.0.0",
+  "description" : "Insert a random Adorable Avatar",
+  "icon": "icon.png",
+  "authorEmail" : "mich@elsinclair.com",
+  "name" : "Adorable Avatars Sketch Plugin"
+}
